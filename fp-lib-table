@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "letmesleep hall effect sensor footprints")(type "KiCad")(uri "${KIPRJMOD}/libraries/letmesleep hall effect sensor footprints.pretty")(options "")(descr ""))
+)

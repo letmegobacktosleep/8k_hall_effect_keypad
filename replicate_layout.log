@@ -1,0 +1,21 @@
+04-18 18:31:57 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 392:Plugin executed on: 'win32'
+04-18 18:31:57 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 393:Plugin executed with python version: '3.9.16 (main, May 18 2023, 07:48:16) [MSC v.1936 64 bit (AMD64)]'
+04-18 18:31:57 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 394:KiCad build version: 7.0.5
+04-18 18:31:57 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 395:Plugin version: 2.1.3
+04-18 18:31:57 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 396:Frame repr: <wx._core.Frame object at 0x0000023785462C10>
+04-18 18:31:57 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 420:Preparing replicator with C19 as a reference
+04-18 18:31:57 com_github_MitjaNemec_ReplicateLayout.replicate_layout 117:getting a list of all footprints on board
+04-18 18:31:57 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 468:source anchor footprint is 'C19'
+Located on: ['key2']
+With filenames: ['key.kicad_sch']
+With sheet_id:['key2']
+04-18 18:31:57 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 475:Corresponding footprints are 
+[('C15', ['key']), ('C29', ['key7']), ('C25', ['key5']), ('C21', ['key3']), ('C27', ['key6']), ('C19', ['key2']), ('C17', ['key1']), ('C23', ['key4'])]
+04-18 18:31:57 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 487:Showing dialog
+04-18 18:31:57 com_github_MitjaNemec_ReplicateLayout.replicate_layout 424:constructing a list of sheets suitable for replication on level:'key2', file:'key.kicad_sch'
+04-18 18:31:57 com_github_MitjaNemec_ReplicateLayout.replicate_layout 461:suitable sheets are:[['key'], ['key1'], ['key3'], ['key4'], ['key5'], ['key6'], ['key7']]
+04-18 18:31:57 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1464:Level selected: ['key2']
+04-18 18:31:57 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1299:Filtering list of tracks
+04-18 18:31:57 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 493:Toolbar position: wx.Point(1699, 125)
+04-18 18:31:57 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 498:Dialog position: wx.Point(1260, 125)
+04-18 18:31:58 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 321:User canceled the dialog

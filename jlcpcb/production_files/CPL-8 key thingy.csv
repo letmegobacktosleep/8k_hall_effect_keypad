@@ -1,0 +1,57 @@
+Designator,Val,Package,Mid X,Mid Y,Rotation,Layer
+C2,1u,C_0805_2012Metric,50.546,-34.29,90.0,bottom
+C3,1u,C_0805_2012Metric,44.704,-34.29,270.0,bottom
+C4,100n,C_0402_1005Metric,70.866,-52.578,180.0,bottom
+C5,4u7,C_0402_1005Metric,61.849,-42.799,180.0,bottom
+C6,100n,C_0402_1005Metric,61.849,-43.815,180.0,bottom
+C7,4u7,C_0402_1005Metric,71.501,-42.799,270.0,bottom
+C8,100n,C_0402_1005Metric,70.485,-42.799,270.0,bottom
+C9,100n,C_0402_1005Metric,71.501,-51.435,0.0,bottom
+C10,1u,C_0402_1005Metric,64.389,-53.848,270.0,bottom
+C11,10n,C_0402_1005Metric,65.405,-53.848,270.0,bottom
+C12,33p,C_0402_1005Metric,68.199,-55.372,0.0,bottom
+C13,33p,C_0402_1005Metric,66.167,-55.372,0.0,bottom
+C14,100n,C_0402_1005Metric,68.961,-53.848,270.0,bottom
+C15,100n,C_0402_1005Metric,39.116,-40.64,0.0,bottom
+C16,100n,C_0402_1005Metric,37.084,-41.656,0.0,bottom
+C17,100n,C_0402_1005Metric,58.166,-40.64,0.0,bottom
+C18,100n,C_0402_1005Metric,56.134,-41.656,0.0,bottom
+C19,100n,C_0402_1005Metric,77.216,-40.64,0.0,bottom
+C20,100n,C_0402_1005Metric,75.184,-41.656,0.0,bottom
+C21,100n,C_0402_1005Metric,96.266,-40.64,0.0,bottom
+C22,100n,C_0402_1005Metric,94.234,-41.656,0.0,bottom
+C23,100n,C_0402_1005Metric,37.084,-54.61,180.0,bottom
+C24,100n,C_0402_1005Metric,39.115999,-53.594,180.0,bottom
+C25,100n,C_0402_1005Metric,56.134,-54.61,180.0,bottom
+C26,100n,C_0402_1005Metric,58.165999,-53.594,180.0,bottom
+C27,100n,C_0402_1005Metric,75.184,-54.61,180.0,bottom
+C28,100n,C_0402_1005Metric,77.215999,-53.594,180.0,bottom
+C29,100n,C_0402_1005Metric,94.234,-54.61,180.0,bottom
+C30,100n,C_0402_1005Metric,96.265999,-53.594,180.0,bottom
+F1,1.1A,Fuse_1206_3216Metric,57.15,-33.655,0.0,bottom
+HALL1,hall effect sensor,SOT-23,38.1,-38.1,90.0,bottom
+HALL2,hall effect sensor,SOT-23,57.15,-38.1,90.0,bottom
+HALL3,hall effect sensor,SOT-23,76.2,-38.1,90.0,bottom
+HALL4,hall effect sensor,SOT-23,95.25,-38.1,90.0,bottom
+HALL5,hall effect sensor,SOT-23,38.1,-57.15,270.0,bottom
+HALL6,hall effect sensor,SOT-23,57.15,-57.15,270.0,bottom
+HALL7,hall effect sensor,SOT-23,76.2,-57.15,270.0,bottom
+HALL8,hall effect sensor,SOT-23,95.25,-57.15,270.0,bottom
+J1,USB_C_Receptacle_USB2.0,USB_C_Receptacle_HRO_TYPE-C-31-M-12 (marbastlib),66.675,-31.115,180.0,bottom
+R2,5.1k,R_0402_1005Metric,68.326,-36.957,0.0,bottom
+R3,5.1k,R_0402_1005Metric,65.278,-36.957,0.0,bottom
+R4,10k,R_0402_1005Metric,83.058,-53.594,0.0,bottom
+R5,1k5,R_0402_1005Metric,66.421,-40.894,270.0,bottom
+R6,10k,R_0402_1005Metric,37.084,-40.64,180.0,bottom
+R7,10k,R_0402_1005Metric,56.134,-40.64,180.0,bottom
+R8,10k,R_0402_1005Metric,75.184,-40.64,180.0,bottom
+R9,10k,R_0402_1005Metric,94.234,-40.64,180.0,bottom
+R10,10k,R_0402_1005Metric,39.115999,-54.61,0.0,bottom
+R11,10k,R_0402_1005Metric,58.165999,-54.61,0.0,bottom
+R12,10k,R_0402_1005Metric,77.215999,-54.61,0.0,bottom
+R13,10k,R_0402_1005Metric,96.265999,-54.61,0.0,bottom
+SW2,SW_SPST,SW_SPST_TL3342,85.725,-57.15,0.0,bottom
+U1,XC6206PxxxMR,SOT-23,47.625,-34.29,180.0,bottom
+U2,H5VU25U,DFN2510 (from moonboard),68.453,-40.894,0.0,bottom
+U3,STM32F072CBTx,LQFP-48_7x7mm_P0.5mm,66.675,-47.625,90.0,bottom
+Y1,8MHz,Crystal_SMD_3225-4Pin_3.2x2.5mm,67.183,-57.658,0.0,bottom

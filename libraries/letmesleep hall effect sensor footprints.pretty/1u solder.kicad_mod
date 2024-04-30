@@ -1,0 +1,17 @@
+(footprint "1u solder" (version 20221018) (generator pcbnew)
+  (layer "F.Cu")
+  (descr "Footprint for Cherry MX style switches")
+  (tags "cherry mx switch")
+  (attr through_hole exclude_from_pos_files exclude_from_bom)
+  (fp_text reference "REF**" (at 0 3.175) (layer "Dwgs.User") hide
+      (effects (font (size 1 1) (thickness 0.15)))
+    (tstamp 60628c1f-f7b2-4a4b-be6f-62bc1a819432)
+  )
+  (fp_text value "1u solder" (at 0 -8) (layer "F.SilkS") hide
+      (effects (font (size 1 1) (thickness 0.15)))
+    (tstamp 810d1828-323c-409a-960d-456fda8be10a)
+  )
+  (pad "" np_thru_hole circle (at 0 0) (size 3.9878 3.9878) (drill 3.9878) (layers "*.Cu" "*.Mask") (tstamp 3a568413-17bd-4a87-b1ac-928e77fa1b6a))
+  (pad "1" thru_hole circle (at -3.81 -2.54) (size 2.3 2.3) (drill 1.524) (layers "*.Cu" "B.Mask") (tstamp 82941cb3-7e8d-4836-8b43-647cd4390ab6))
+  (pad "2" thru_hole circle (at 2.54 -5.08) (size 2.3 2.3) (drill 1.524) (layers "*.Cu" "B.Mask") (tstamp 1c7ec62e-d96c-4a0d-ac32-e919b90a3c5b))
+)
